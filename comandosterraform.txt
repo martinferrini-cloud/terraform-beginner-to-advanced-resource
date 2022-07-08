@@ -1,0 +1,11 @@
+comandos terraform
+
+init para inicializar
+plan
+apply la config en la nube.
+Validate
+fmt
+graph
+
+Import the change to terraform
+taint - 
