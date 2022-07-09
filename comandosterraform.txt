@@ -2,10 +2,13 @@ comandos terraform
 
 init para inicializar
 plan
-apply la config en la nube.
+apply la config en la nube. -auto-approve
 Validate
 fmt
 graph
 
 Import the change to terraform
 taint - 
+
+plan -refresh=false -target=....
+
